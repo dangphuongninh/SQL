@@ -1,3 +1,5 @@
+-- SOURCE: FROM `bigquery-public-data.google_analytics_sample.ga_sessions_20170801`
+
 -- Query 01: calculate total visit, pageview, transaction and revenue for Jan, Feb and March 2017 order by month
 #standardSQL
 select
